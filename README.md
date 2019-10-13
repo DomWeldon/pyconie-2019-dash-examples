@@ -6,7 +6,7 @@ _Sunday 13 October, 10.00 Goldsmiths 1 and 2._
 
 **Please note the examples in this repository require Python >= 3.6 - official python 3.5 support is being withdrawn in January 2020...**
 
-The slides relating to this talk are available here: [RELEASED SHORTLY AFTER TALK]
+The slides relating to this talk [are available here](http://bit.ly/2MB6u6W).
 
 ### Example Applications
 
