@@ -41,13 +41,13 @@ services:
     ports:
       - 8054:8050
 
-  # app05:
-  #   container_name: pycon_ireland_app05
-  #   build:
-  #     context: .
-  #     dockerfile: Dockerfile05
-  #   ports:
-  #     - 8055:8050
+  app05:
+    container_name: pycon_ireland_app05
+    build:
+      context: .
+      dockerfile: Dockerfile05
+    ports:
+      - 8055:8050
 
   app06:
     container_name: pycon_ireland_app06
